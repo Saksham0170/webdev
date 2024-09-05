@@ -1,1 +1,0 @@
-console.log("Sum is" + 1+2); 
